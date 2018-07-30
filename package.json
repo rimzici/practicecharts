@@ -10,7 +10,7 @@
     "lodash": "^4.17.10",
     "react": "16.3.1",
     "react-native": "0.55.4",
-    "react-native-svg": "^6.4.1",
+    "react-native-svg": "6.1.4",
     "victory-native": "^0.18.2"
   },
   "devDependencies": {
